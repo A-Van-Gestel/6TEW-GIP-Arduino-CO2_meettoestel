@@ -1,4 +1,4 @@
-# 6TEW-GIP-Arduino-CO2_meettoestel
+# 6TEW-GIP-Arduino-CO2 meettoestel
 Een Arduino powered CO2 meettoestel als onderdeel van mijn GIP in 6 Techniek Wetenschappen
 
 **Components used:**
